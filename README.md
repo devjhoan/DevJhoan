@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **[Absolet Bot](https://strider.cloud)**
 - 🌱 I’m currently learning **Javascript**
 - 📫 How to reach me **[Jhoan#6969](https://jhoan.monster/)** in Discord
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://jhoan.monster)** _(Now under maintenance)_ -->
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://jhoan.monster)**
 
 ## 🚀 Languages and Tools:
 <p align="left"> 
