@@ -26,7 +26,7 @@
 
 ## 📊 My Github Stats
 <br/>
-    <a href="https://github.com/DevJhoan"><img src="https://github-readme-stats.vercel.app/api?username=DevJhoan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&hide=contribs,prs" /></a>
+    <a href="https://github.com/DevJhoan"><img src="https://github-widgetbox.vercel.app/api/profile?username=DevJhoan&data=followers,repositories,stars,commits" /></a>
     <a href="https://github.com/DevJhoan"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=devjhoan&border_radius=5px&theme=dark&bg_color=0D1117&border_color=0D1117&icon_color=58a6ff&show_icons=false&layout=default&disable_animations=true&langs_count=4&custom_title=Jhoan%20M.'s%20WakaTime%20Stats" /></a>
 <br/>
   
