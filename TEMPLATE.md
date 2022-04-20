@@ -32,7 +32,7 @@
 
 ## 📈 Additional Stats
 <details>
-    <summary>⚡ This week i spent my time on</summary>
+    <summary>⚡ GitHub and WakaTime Stats</summary>
     <br/>
 
 <!--START_SECTION:waka-->
