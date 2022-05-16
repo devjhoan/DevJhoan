@@ -40,8 +40,6 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 374 Contributions in the Year 2022
- > 
 > 📦 19.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -113,6 +111,6 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2022 22:13:52 UTC
+ Last Updated on 16/05/2022 22:41:02 UTC
 <!--END_SECTION:waka-->
 </details>
