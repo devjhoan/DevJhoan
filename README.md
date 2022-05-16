@@ -36,7 +36,7 @@
     <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2040%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -113,6 +113,6 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2022 17:01:20 UTC
+ Last Updated on 16/05/2022 17:29:56 UTC
 <!--END_SECTION:waka-->
 </details>
