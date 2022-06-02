@@ -1,4 +1,4 @@
-<h1 align="center">Hi, i’m @Jhoan <img src="https://i.imgur.com/ILVRpZm.gif" width="30px"></h1>
+<h1 align="center">Hi, i’m @Jhoan</h1>
 <h3 align="center">I'm currently working as a freelancer and learning new things also i'm developing discord bots in Strider Development.</h3>
 
 ## 🙋‍♂️ About Me
