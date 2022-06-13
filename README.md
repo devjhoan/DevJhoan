@@ -40,7 +40,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 569 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 45.7 kB Used in GitHub's Storage 
  > 
@@ -114,6 +114,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2022 18:17:51 UTC
+ Last Updated on 13/06/2022 18:50:22 UTC
 <!--END_SECTION:waka-->
 </details>
