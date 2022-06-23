@@ -36,13 +36,13 @@
     <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2039%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 608 Contributions in the Year 2022
  > 
-> 📦 46.8 kB Used in GitHub's Storage 
+> 📦 46.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -114,6 +114,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/06/2022 20:15:04 UTC
+ Last Updated on 23/06/2022 20:40:47 UTC
 <!--END_SECTION:waka-->
 </details>
