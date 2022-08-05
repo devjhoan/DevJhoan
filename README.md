@@ -1,10 +1,8 @@
 <h1 align="center">Hi, i’m @Jhoan</h1>
-<h3 align="center">I'm currently working as a freelancer and learning new things also i'm developing discord bots in Strider Development.</h3>
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Absolet Bot](https://strider.cloud)**
-- 🌱 I’m currently learning **Javascript**
 - 📫 How to reach me **[Jhoan#6969](https://jhoan.monster/)** in Discord
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://jhoan.monster)**
 
