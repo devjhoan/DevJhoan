@@ -26,7 +26,7 @@
     <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2016%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -69,16 +69,20 @@ Sunday       74 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs 19 mins       ████████████████████████░   98.48% 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89% 
+EJS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 21 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Strider-System           2 hrs 21 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 21 mins       █████████████████████████   100.0%
 
 ```
 
@@ -95,6 +99,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2022 05:12:55 UTC
+ Last Updated on 01/09/2022 06:04:15 UTC
 <!--END_SECTION:waka-->
 </details>
