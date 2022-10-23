@@ -3,8 +3,8 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Absolet Bot](https://strider.cloud)**
-- 📫 How to reach me **[Jhoan#6969](https://jhoan.monster/)** in Discord
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://jhoan.monster)**
+- 📫 How to reach me *[My Portfolio](https://jhoan.me/contact)
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://jhoan.me)**
 
 ## 🚀 Languages and Tools:
 <p align="center">
