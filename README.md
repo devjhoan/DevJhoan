@@ -69,17 +69,16 @@ Sunday       70 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-JavaScript               2 mins              ███████████████████████░░   92.88% 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   7.12%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Absolet                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -96,6 +95,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2022 05:11:46 UTC
+ Last Updated on 13/12/2022 05:35:57 UTC
 <!--END_SECTION:waka-->
 </details>
