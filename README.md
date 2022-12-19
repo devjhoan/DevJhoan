@@ -26,7 +26,7 @@
     <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-539%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-539%20hrs%2040%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -103,6 +103,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/12/2022 23:12:17 UTC
+ Last Updated on 19/12/2022 23:36:32 UTC
 <!--END_SECTION:waka-->
 </details>
