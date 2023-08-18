@@ -30,7 +30,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 189.2 kB Used in GitHub's Storage 
+> 📦 180.3 kB Used in GitHub's Storage 
  > 
 > 🏆 352 Contributions in the Year 2023
  > 
@@ -38,7 +38,7 @@
  > 
 > 📜 5 Public Repositories 
  > 
-> 🔑 44 Private Repositories 
+> 🔑 43 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -92,6 +92,6 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2023 15:34:56 UTC
+ Last Updated on 18/08/2023 16:13:10 UTC
 <!--END_SECTION:waka-->
 </details>
